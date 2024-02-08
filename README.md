@@ -9,13 +9,16 @@ This is where machine learning proves invaluable. In this project, three distinc
 
 ## Installation
 
-1. **Clone GIT Reponsitory**
+### 1. **Clone GIT Reponsitory**
+
    git clone https://github.com/JanMuehlnikel/Rice-Leaf-Disease-Identification/edit/master/README.md
-2. **Install dependencies**
+### 2. **Install dependencies**
+
    pip install -r requirements.txt
-3. **Downlaod Data (Rice Leaf Diseas Samples)**
+### 3. **Downlaod Data (Rice Leaf Diseas Samples)**
+
    https://data.mendeley.com/datasets/fwcj7stb8r/1 REF: (sethy, prabira Kumar (2020), “Rice Leaf Disease Image Samples”, Mendeley Data, V1, doi: 10.17632/fwcj7stb8r.1)
-4. **Extract the data to the /data/ folder**
+### 4. **Extract the data to the /data/ folder**
 
 
 ## Usage
