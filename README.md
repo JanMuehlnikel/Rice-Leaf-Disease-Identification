@@ -27,7 +27,7 @@ For analyzing the image data used in this project, refer to the `analysis.ipynb`
 To prepare the data for machine learning training, follow the preprocessing pipeline. Run the notebooks in the `/Pipeline/` directory in the following order:
 
 1. **Data Pipeline**:
-   <img src="./img/usage.png" alt="Data Pipeline" width="300"/>
+   !<img src="./img/usage.png" alt="Data Pipeline" width="750"/>
 
 ### Model Training
 To train the models, navigate to the `/Model/` directory and select the notebook corresponding to your desired model.
