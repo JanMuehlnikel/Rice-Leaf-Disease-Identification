@@ -67,5 +67,5 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 <p align="center">
   <img src="./img/giz.png" width="300" />
   <img src="./img/agf.jpg" width="100" />
-   <img src="./img/dhbw.png.png" width="300" />
+   <img src="./img/dhbw.png.png" width="200" />
 </p>
