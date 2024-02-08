@@ -18,9 +18,19 @@ This is where machine learning proves invaluable. In this project, three distinc
 4. **Extract the data to the /data/ folder**
 
 
-## Verwendung
+## Usage
 
-Hier kannst du beschreiben, wie das Projekt verwendet wird.
+### Data Analysis
+For analyzing the image data used in this project, refer to the `analysis.ipynb` notebook located in the `/Exploration/` directory.
+
+### Data Preprocessing Pipeline
+To prepare the data for machine learning training, follow the preprocessing pipeline. Run the notebooks in the `/Pipeline/` directory in the following order:
+
+1. **Data Pipeline**:
+   ![Data Pipeline](./img/usage.png)
+
+### Model Training
+To train the models, navigate to the `/Model/` directory and select the notebook corresponding to your desired model.
 
 ## Screenshots
 
