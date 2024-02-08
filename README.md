@@ -42,10 +42,14 @@ To prepare the data for machine learning training, follow the preprocessing pipe
 To train the models, navigate to the `/Model/` directory and select the notebook corresponding to your desired model.
 
 ## Results
-This Project considered four different rice leaf diseases:
+### This Project considered four different rice leaf diseases:
+#### Bacterial Blight
 ![Bildbeschreibung 1](./img/bacterial.png)
+#### Blast
 ![Bildbeschreibung 1](./img/Blast_images.png)
+#### Brownspot
 ![Bildbeschreibung 1](./img/Brownspot_images.png)
+#### Tungro
 ![Bildbeschreibung 1](./img/Tungro_images.png)
 
 
