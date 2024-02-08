@@ -41,8 +41,15 @@ To prepare the data for machine learning training, follow the preprocessing pipe
 ### Model Training
 To train the models, navigate to the `/Model/` directory and select the notebook corresponding to your desired model.
 
-## Screenshots
-
+## Results
+| Header 1 | Header 2 | Header 3 | Header 4 |
+|----------|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
+| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 |
+| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 |
+| Row 6, Col 1 | Row 6, Col 2 | Row 6, Col 3 | Row 6, Col 4 |
 ![Bildbeschreibung 1](./bilder/bild1.png)
 ![Bildbeschreibung 2](./bilder/bild2.png)
 
