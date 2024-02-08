@@ -19,7 +19,9 @@ This is where machine learning proves invaluable. In this project, three distinc
    
 ### 3. **Downlaod Data (Rice Leaf Diseas Samples)**
 
-   https://data.mendeley.com/datasets/fwcj7stb8r/1 REF: (sethy, prabira Kumar (2020), “Rice Leaf Disease Image Samples”, Mendeley Data, V1, doi: 10.17632/fwcj7stb8r.1)
+   https://data.mendeley.com/datasets/fwcj7stb8r/1 
+   
+   REF: (sethy, prabira Kumar (2020), “Rice Leaf Disease Image Samples”, Mendeley Data, V1, doi: 10.17632/fwcj7stb8r.1)
    
 ### 4. **Copy data into the project**
 
