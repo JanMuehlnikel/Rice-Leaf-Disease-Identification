@@ -1,4 +1,4 @@
-# Rice Leaf Disease Identification 🌾
+# Rice Leaf Disease Identification 🌾🚀
 
 For over 50% of the world's population, rice serves as a primary source of daily sustenance. However, a significant challenge arises in rice cultivation: Rice Leaf Diseases. These diseases account for the destruction of 10% to 15% of the global rice harvest annually. Therefore, the identification of these diseases is crucial to initiate proactive measures against them. Unfortunately, many farmers lack the expertise to accurately identify these diseases on their own, necessitating external support.
 
