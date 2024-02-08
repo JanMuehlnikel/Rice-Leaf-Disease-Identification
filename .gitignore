@@ -1,14 +1,1 @@
 /Data/
-/Data/train_images.tfrecords
-/Data/val_images.tfrecords
-/Data/preprocessed_train_images.tfrecords
-/Data/preprocessed_val_images.tfrecords
-/Data/oversampled_train_images.tfrecords
-/Data/preprocessed_test_images.tfrecords
-/Data/shuffled_labels.txt
-/Data/test_images.tfrecords
-/IMG/
-/Data/Blast
-/Data/Brownspot
-/Data/Tungro
-
