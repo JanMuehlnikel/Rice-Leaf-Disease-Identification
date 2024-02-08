@@ -62,6 +62,6 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 | Recall           | 72.00%        | 85.40%        | 95.55%         |
 | F1-Score         | 72.00%        | 85.55%        | 95.61%         |
 
-## Beitrag
+## Note of thanks
 
-Hier könntest du erklären, wie andere zum Projekt beitragen können.
+![Bildbeschreibung 1](./img/dhbw.png) ![Bildbeschreibung 1](./img/giz.png) ![Bildbeschreibung 1](./img/agf.png)
