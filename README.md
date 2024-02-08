@@ -53,16 +53,13 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 ![Bildbeschreibung 1](./img/Tungro_images.png)
 
 
-| Header 1 | Header 2 | Header 3 | Header 4 |
-|----------|----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
-| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 |
-| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 |
-| Row 6, Col 1 | Row 6, Col 2 | Row 6, Col 3 | Row 6, Col 4 |
-![Bildbeschreibung 1](./bilder/bild1.png)
-![Bildbeschreibung 2](./bilder/bild2.png)
+| Metric / Model | Decision tree | Random Forest | CNN (ResNet50) |
+|--------------|--------------|--------------|--------------|
+| Training Time | Placeholder6 | Placeholder7 | Placeholder8 |
+| Accuracy | Placeholder10| Placeholder11| Placeholder12|
+| Precision | Placeholder14| Placeholder15| Placeholder16|
+| Recall | Placeholder18| Placeholder19| Placeholder20|
+| F1-Score| Placeholder22| Placeholder23| Placeholder24|
 
 ## Beitrag
 
