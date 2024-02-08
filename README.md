@@ -43,7 +43,7 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 
 ## Results
 This Project considered four different rice leaf diseases:
-![Bildbeschreibung 1](img/Bacterial Blight_images.png)
+![Bildbeschreibung 1](./img/Bacterial Blight_images.png)
 ![Bildbeschreibung 1](./img/Blast_images.png)
 ![Bildbeschreibung 1](./img/Brownspot_images.png)
 ![Bildbeschreibung 1](./img/Tungro_images.png)
