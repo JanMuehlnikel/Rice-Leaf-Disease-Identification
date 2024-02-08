@@ -42,6 +42,9 @@ To prepare the data for machine learning training, follow the preprocessing pipe
 To train the models, navigate to the `/Model/` directory and select the notebook corresponding to your desired model.
 
 ## Results
+This Project considered four different rice leaf diseases:
+
+
 | Header 1 | Header 2 | Header 3 | Header 4 |
 |----------|----------|----------|----------|
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
