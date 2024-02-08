@@ -64,4 +64,4 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 
 ## Note of thanks
 
-![Bildbeschreibung 1](./img/dhbw.png) ![Bildbeschreibung 1](./img/giz.png) ![Bildbeschreibung 1](./img/agf.png)
+![Bildbeschreibung 1](./img/dhbw.png.png) ![Bildbeschreibung 1](./img/giz.png) ![Bildbeschreibung 1](./img/agf.jpg)
