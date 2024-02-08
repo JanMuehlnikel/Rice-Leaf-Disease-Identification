@@ -55,11 +55,11 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 
 | Metric / Model | Decision tree | Random Forest | CNN (ResNet50) |
 |--------------|--------------|--------------|--------------|
-| Training Time | Placeholder6 | Placeholder7 | Placeholder8 |
-| Accuracy | Placeholder10| Placeholder11| Placeholder12|
-| Precision | Placeholder14| Placeholder15| Placeholder16|
-| Recall | Placeholder18| Placeholder19| Placeholder20|
-| F1-Score| Placeholder22| Placeholder23| Placeholder24|
+| Training Time | 10m 20s | 1m 20s | 14m 33s |
+| Accuracy | 71.95%| 85.39% | 95.55%|
+| Precision | 75.00%| 86.15% | 95.86%|
+| Recall | 72.00%| 85.40% | 95.55%|
+| F1-Score| 72.00%| 85.55%| 95.61%|
 
 ## Beitrag
 
