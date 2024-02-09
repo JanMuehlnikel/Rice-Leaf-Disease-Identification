@@ -62,7 +62,7 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 | Recall           | 72.00%        | 85.40%        | 95.55%         |
 | F1-Score         | 72.00%        | 85.55%        | 95.61%         |
 
-![Model evaluation](./img/plot.png)
+<img src="./img/plot.png" alt="Data Pipeline" width="750"/>
 
 ## Note of thanks
 I extend my sincere gratitude to my colleagues at the Thai Agriculture and Food Cluster within GIZ for warmly hosting me and providing me with the invaluable opportunity to contribute to projects in Bangkok for three months as part of my University Praxis Project. Their support and guidance have greatly enriched my learning experience and professional development.
