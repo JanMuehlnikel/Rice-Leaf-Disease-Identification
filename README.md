@@ -44,13 +44,13 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 ## Results
 ### This Project considered four different rice leaf diseases:
 #### Bacterial Blight
-![Bildbeschreibung 1](./img/bacterial.png)
+![Bacterial Blight](./img/bacterial.png)
 #### Blast
-![Bildbeschreibung 1](./img/Blast_images.png)
+![Blast](./img/Blast_images.png)
 #### Brownspot
-![Bildbeschreibung 1](./img/Brownspot_images.png)
+![Brownspot](./img/Brownspot_images.png)
 #### Tungro
-![Bildbeschreibung 1](./img/Tungro_images.png)
+![Tungro](./img/Tungro_images.png)
 
 ### Performance Metrics for Three Machine Learning Models:
 
@@ -61,6 +61,8 @@ To train the models, navigate to the `/Model/` directory and select the notebook
 | Precision        | 75.00%        | 86.15%        | 95.86%         |
 | Recall           | 72.00%        | 85.40%        | 95.55%         |
 | F1-Score         | 72.00%        | 85.55%        | 95.61%         |
+
+![Model evaluation](./img/plot.png)
 
 ## Note of thanks
 I extend my sincere gratitude to my colleagues at the Thai Agriculture and Food Cluster within GIZ for warmly hosting me and providing me with the invaluable opportunity to contribute to projects in Bangkok for three months as part of my University Praxis Project. Their support and guidance have greatly enriched my learning experience and professional development.
